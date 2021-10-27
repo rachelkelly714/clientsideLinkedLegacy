@@ -1,0 +1,15 @@
+.Form{
+    background-color: rgb(243, 42, 7,.5);
+    width: 500px;
+    padding: 20px 20px 20px 5px;
+    border-radius: 2em;
+    float: left;
+    opacity: .8; 
+    align-items: center;
+    flex-direction: row;
+    font-size: 22px;
+    margin: 30px; 
+    
+
+
+}
